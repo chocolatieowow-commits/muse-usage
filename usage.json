@@ -1,8 +1,8 @@
 {
-  "used_percent": 91,
-  "left_percent": 9,
-  "reset_at": "2026-11-14T13:27:00+09:00",
-  "reset_text": "Reset Nov 14 (Sat) 13:27",
-  "updated_at": "2026-11-14T13:11:54+09:00",
-  "updated_text": "11/14 13:11 時点"
+  "used_percent": 0,
+  "left_percent": 100,
+  "reset_at": "2026-11-21T13:43:00+09:00",
+  "reset_text": "Reset Nov 21 (Sat) 13:43",
+  "updated_at": "2026-11-14T14:11:56+09:00",
+  "updated_text": "11/14 14:11 時点"
 }
